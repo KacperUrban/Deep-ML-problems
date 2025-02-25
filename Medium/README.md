@@ -5,7 +5,7 @@ Write a Python function that calculates the eigenvalues of a 2x2 matrix.
 
 Link to the problem website - https://www.deep-ml.com/problems/6.
 
-Solved in problem6.py.
+Solved in [problem6.py](problem6.py).
 
 * **Solve Linear Equations using Jacobi Method**:
 
@@ -13,7 +13,7 @@ Write a Python function that uses the Jacobi method to solve a system of linear 
 
 Link to the problem website - https://www.deep-ml.com/problems/11.
 
-Solved in problem11.py.
+Solved in [problem11.py](problem11.py).
 
 * **Principal Component Analysis (PCA) Implementation**:
 
@@ -21,7 +21,7 @@ Write a Python function that performs Principal Component Analysis (PCA) from sc
 
 Link to the problem website - https://www.deep-ml.com/problems/19.
 
-Solved in problem19.py.
+Solved in [problem19.py](problem19.py).
 
 * **Divide Dataset Based on Feature Threshold**:
 
@@ -29,7 +29,7 @@ Write a Python function to divide a dataset based on whether the value of a spec
 
 Link to the problem website - https://www.deep-ml.com/problems/31.
 
-Solved in problem31.py.
+Solved in [problem31.py](problem31.py).
 
 * **Implement Gradient Descent Variants with MSE Loss**:
   
@@ -37,4 +37,12 @@ In this problem, you need to implement a single function that can perform three 
 
 Link to the problem website - https://www.deep-ml.com/problems/47.
 
-Solved in problem47.py.
+Solved in [problem47.py](problem47.py).
+
+* **Implementing a Simple RNN**:
+  
+Write a Python function that implements a simple Recurrent Neural Network (RNN) cell.
+
+Link to the problem website - https://www.deep-ml.com/problems/54.
+
+Solved in [problem54.py](problem54.py).
