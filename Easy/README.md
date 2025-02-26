@@ -110,3 +110,11 @@ Write a Python function to calculate the contrast of a grayscale image using the
 Link to the problem website - https://www.deep-ml.com/problems/82.
 
 Solved in [problem82.py](problem82.py).
+
+* **Measure Disorder in Apple Colors**:
+  
+Implement a function that calculates the disorder in a basket of apples based on their colors, where each apple color is represented by an integer.
+
+Link to the problem website - https://www.deep-ml.com/problems/108.
+
+Solved in [problem108.py](problem108.py).
