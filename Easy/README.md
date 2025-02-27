@@ -47,6 +47,30 @@ Link to the problem website - https://www.deep-ml.com/problems/10.
 
 Solved in [problem10.py](problem10.py).
 
+* **Linear Regression Using Normal Equation**:
+  
+Write a Python function that performs linear regression using the normal equation.
+
+Link to the problem website - https://www.deep-ml.com/problems/14.
+
+Solved in [problem14.py](problem14.py).
+
+* **Linear Regression Using Gradient Descent**:
+  
+Write a Python function that performs linear regression using gradient descent.
+
+Link to the problem website - https://www.deep-ml.com/problems/15.
+
+Solved in [problem15.py](problem15.py).
+
+* **Feature Scaling Implementation**:
+  
+Write a Python function that performs feature scaling on a dataset using both standardization and min-max normalization.
+
+Link to the problem website - https://www.deep-ml.com/problems/16.
+
+Solved in [problem16.py](problem16.py).
+
 * **Sigmoid Activation Function Understanding**:
   
 Write a Python function that computes the output of the sigmoid activation function given an input value z.
