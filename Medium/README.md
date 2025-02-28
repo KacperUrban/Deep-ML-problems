@@ -7,6 +7,14 @@ Link to the problem website - https://www.deep-ml.com/problems/6.
 
 Solved in [problem6.py](problem6.py).
 
+* **Matrix Transformation**:
+  
+Write a Python function that transforms a given matrix A using the operation T^-1@A@S, where T and S are invertible matrices.
+
+Link to the problem website - https://www.deep-ml.com/problems/7.
+
+Solved in [problem7.py](problem7.py).
+
 * **Solve Linear Equations using Jacobi Method**:
 
 Write a Python function that uses the Jacobi method to solve a system of linear equations given by Ax = b.
