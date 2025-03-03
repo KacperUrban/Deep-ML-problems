@@ -15,6 +15,14 @@ Link to the problem website - https://www.deep-ml.com/problems/7.
 
 Solved in [problem7.py](problem7.py).
 
+* **Calculate 2x2 Matrix Inverse**:
+  
+Write a Python function that calculates the inverse of a 2x2 matrix. Return 'None' if the matrix is not invertible.
+
+Link to the problem website - https://www.deep-ml.com/problems/8.
+
+Solved in [problem8.py](problem8.py).
+
 * **Solve Linear Equations using Jacobi Method**:
 
 Write a Python function that uses the Jacobi method to solve a system of linear equations given by Ax = b.
