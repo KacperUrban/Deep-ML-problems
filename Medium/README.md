@@ -55,6 +55,14 @@ Link to the problem website - https://www.deep-ml.com/problems/47.
 
 Solved in [problem47.py](problem47.py).
 
+* **Implement Adam Optimization Algorithm**:
+  
+Implement the Adam (Adaptive Moment Estimation) optimization algorithm in Python.
+
+Link to the problem website - https://www.deep-ml.com/problems/49.
+
+Solved in [problem49.py](problem49.py).
+
 * **Implementing a Simple RNN**:
   
 Write a Python function that implements a simple Recurrent Neural Network (RNN) cell.
