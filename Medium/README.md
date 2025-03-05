@@ -70,3 +70,11 @@ Write a Python function that implements a simple Recurrent Neural Network (RNN) 
 Link to the problem website - https://www.deep-ml.com/problems/54.
 
 Solved in [problem54.py](problem54.py).
+
+* **The Pattern Weaver's Code**:
+  
+Deep in the Crystal Cave, the enigmatic Pattern Weaver creates stunning sequences by uncovering the intricate relationships between crystals. For each crystal, calculate its relationship with every other crystal, compute the attention scores using the softmax function, and derive the final weighted pattern for each crystal. 
+
+Link to the problem website - https://www.deep-ml.com/problems/89.
+
+Solved in [problem89.py](problem89.py).
