@@ -5,3 +5,6 @@ In this repository I will upload solutions to problem from Deep-ML challenges. T
 * [Easy](Easy)
 * [Medium](Medium)
 * [Hard](Hard)
+
+# Leaderboard
+You can find leaderboard in this link - https://www.deep-ml.com/leaderboard. My nickname is Kacper Urban.

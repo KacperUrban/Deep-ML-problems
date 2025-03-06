@@ -63,6 +63,15 @@ Link to the problem website - https://www.deep-ml.com/problems/49.
 
 Solved in [problem49.py](problem49.py).
 
+* **Implement Self-Attention Mechanism**:
+  
+Your task is to implement the self-attention mechanism, which is a fundamental component of transformer models, widely used in natural language processing and computer vision tasks.
+
+Link to the problem website - https://www.deep-ml.com/problems/53.
+
+Solved in [problem53.py](problem53.py).
+
+
 * **Implementing a Simple RNN**:
   
 Write a Python function that implements a simple Recurrent Neural Network (RNN) cell.
