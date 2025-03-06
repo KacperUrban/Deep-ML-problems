@@ -111,6 +111,14 @@ Link to the problem website - https://www.deep-ml.com/problems/56.
 
 Solved in [problem56.py](problem56.py).
 
+* **Implement Orthogonal Projection of a Vector onto a Line**:
+  
+Your task is to implement a function that calculates the orthogonal projection of a vector v onto another vector L. This projection results in the vector on L that is closest to v.
+
+Link to the problem website - https://www.deep-ml.com/problems/66.
+
+Solved in [problem66.py](problem66.py).
+
 * **Generate a Confusion Matrix for Binary Classification**:
   
 Your task is to implement the function confusion_matrix(data) that generates a confusion matrix for a binary classification problem.
