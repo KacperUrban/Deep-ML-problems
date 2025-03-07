@@ -143,6 +143,14 @@ Link to the problem website - https://www.deep-ml.com/problems/82.
 
 Solved in [problem82.py](problem82.py).
 
+* **Calculate F1 Score from Predicted and True Labelsr**:
+  
+Implement a function to calculate the F1 score given predicted and true labels.
+
+Link to the problem website - https://www.deep-ml.com/problems/91.
+
+Solved in [problem91.py](problem91.py).
+
 * **Measure Disorder in Apple Colors**:
   
 Implement a function that calculates the disorder in a basket of apples based on their colors, where each apple color is represented by an integer.
