@@ -47,6 +47,14 @@ Link to the problem website - https://www.deep-ml.com/problems/31.
 
 Solved in [problem31.py](problem31.py).
 
+* **Generate Polynomial Features**:
+
+Write a Python function to generate polynomial features for a given dataset.
+
+Link to the problem website - https://www.deep-ml.com/problems/32.
+
+Solved in [problem32.py](problem32.py).
+
 * **Implement Gradient Descent Variants with MSE Loss**:
   
 In this problem, you need to implement a single function that can perform three variants of gradient descent - Stochastic Gradient Descent (SGD), Batch Gradient Descent, and Mini-Batch Gradient Descent, using Mean Squared Error (MSE) as the loss function.
