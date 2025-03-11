@@ -55,6 +55,14 @@ Link to the problem website - https://www.deep-ml.com/problems/32.
 
 Solved in [problem32.py](problem32.py).
 
+* **Simple Convolutional 2D Layer**:
+
+In this problem, you need to implement a 2D convolutional layer in Python. This function will process an input matrix using a specified convolutional kernel, padding, and stride.
+
+Link to the problem website - https://www.deep-ml.com/problems/41.
+
+Solved in [problem41.py](problem41.py).
+
 * **Implement Gradient Descent Variants with MSE Loss**:
   
 In this problem, you need to implement a single function that can perform three variants of gradient descent - Stochastic Gradient Descent (SGD), Batch Gradient Descent, and Mini-Batch Gradient Descent, using Mean Squared Error (MSE) as the loss function.
