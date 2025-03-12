@@ -8,6 +8,14 @@ Link to the problem website - https://www.deep-ml.com/problems/38.
 
 Solved in [problem38.py](problem38.py).
 
+* **Implement the Conjugate Gradient Method for Solving Linear Systems**:
+
+Your task is to implement the Conjugate Gradient (CG) method, an efficient iterative algorithm for solving large, sparse, symmetric, positive-definite linear systems.
+
+Link to the problem website - https://www.deep-ml.com/problems/63.
+
+Solved in [problem63.py](problem63.py).
+
 * **Positional Encoding Calculator**:
   
 Write a Python function to implement the Positional Encoding layer for Transformers.
