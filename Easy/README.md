@@ -87,6 +87,14 @@ Link to the problem website - https://www.deep-ml.com/problems/34.
 
 Solved in [problem34.py](problem34.py).
 
+* **Implementation of Log Softmax Function**:
+  
+In machine learning and statistics, the softmax function is a generalization of the logistic function that converts a vector of scores into probabilities.
+
+Link to the problem website - https://www.deep-ml.com/problems/39.
+
+Solved in [problem39.py](problem39.py).
+
 * **Leaky ReLU Activation Function**:
   
 Write a Python function leaky_relu that implements the Leaky Rectified Linear Unit (Leaky ReLU) activation function.
