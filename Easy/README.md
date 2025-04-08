@@ -166,3 +166,19 @@ Implement a function that calculates the disorder in a basket of apples based on
 Link to the problem website - https://www.deep-ml.com/problems/108.
 
 Solved in [problem108.py](problem108.py).
+
+* **Min-Max Normalization of Feature Values**:
+  
+Implement a function that performs Min-Max Normalization on a list of integers, scaling all values to the range [0, 1].
+
+Link to the problem website - https://www.deep-ml.com/problems/112.
+
+Solved in [problem112.py](problem112.py).
+
+* **Implement a Simple Residual Block with Shortcut Connection**:
+  
+Implement a function that creates a simple residual block using NumPy. The block should take a 1D input array, process it through two weight layers (using matrix multiplication), apply ReLU activations, and add the original input via a shortcut connection before a final ReLU activation.
+
+Link to the problem website - https://www.deep-ml.com/problems/113.
+
+Solved in [problem113.py](problem113.py).
