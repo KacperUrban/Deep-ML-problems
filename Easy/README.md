@@ -119,6 +119,14 @@ Link to the problem website - https://www.deep-ml.com/problems/56.
 
 Solved in [problem56.py](problem56.py).
 
+* **Implement F-Score Calculation for Binary Classification**:
+  
+Your task is to implement a function that calculates the F-Score for a binary classification task. The F-Score combines both Precision and Recall into a single metric, providing a balanced measure of a model's performance.
+
+Link to the problem website - https://www.deep-ml.com/problems/61.
+
+Solved in [problem61.py](problem61.py).
+
 * **Implement Orthogonal Projection of a Vector onto a Line**:
   
 Your task is to implement a function that calculates the orthogonal projection of a vector v onto another vector L. This projection results in the vector on L that is closest to v.
@@ -182,3 +190,11 @@ Implement a function that creates a simple residual block using NumPy. The block
 Link to the problem website - https://www.deep-ml.com/problems/113.
 
 Solved in [problem113.py](problem113.py).
+
+* **Implement Global Average Pooling**:
+  
+Implement a function that performs Global Average Pooling on a 3D NumPy array representing feature maps from a convolutional layer. The function should take an input of shape (height, width, channels) and return a 1D array of shape (channels,), where each element is the average of all values in the corresponding feature map.
+
+Link to the problem website - https://www.deep-ml.com/problems/114.
+
+Solved in [problem114.py](problem114.py).
