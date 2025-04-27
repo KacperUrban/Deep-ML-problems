@@ -198,3 +198,11 @@ Implement a function that performs Global Average Pooling on a 3D NumPy array re
 Link to the problem website - https://www.deep-ml.com/problems/114.
 
 Solved in [problem114.py](problem114.py).
+
+* **Implement Batch Normalization for BCHW Input**:
+  
+Implement a function that performs Batch Normalization on a 4D NumPy array representing a batch of feature maps in the BCHW format (batch, channels, height, width).
+
+Link to the problem website - https://www.deep-ml.com/problems/115.
+
+Solved in [problem115.py](problem115.py).
