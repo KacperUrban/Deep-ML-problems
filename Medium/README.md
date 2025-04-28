@@ -111,3 +111,12 @@ Deep in the Crystal Cave, the enigmatic Pattern Weaver creates stunning sequence
 Link to the problem website - https://www.deep-ml.com/problems/89.
 
 Solved in [problem89.py](problem89.py).
+
+* **Solve System of Linear Equations Using Cramer's Rule**:
+  
+Implement a function to solve a system of linear equations Ax=b using Cramer's Rule.
+
+Link to the problem website - https://www.deep-ml.com/problems/119.
+
+Solved in [problem119.py](problem119.py).
+
