@@ -55,6 +55,14 @@ Link to the problem website - https://www.deep-ml.com/problems/32.
 
 Solved in [problem32.py](problem32.py).
 
+* **Calculate Correlation Matrix**:
+
+Write a Python function to calculate the correlation matrix for a given dataset. The function should take in a 2D numpy array X and an optional 2D numpy array Y. If Y is not provided, the function should calculate the correlation matrix of X with itself. It should return the correlation matrix as a 2D numpy array.
+
+Link to the problem website - https://www.deep-ml.com/problems/37.
+
+Solved in [problem37.py](problem37.py).
+
 * **Simple Convolutional 2D Layer**:
 
 In this problem, you need to implement a 2D convolutional layer in Python. This function will process an input matrix using a specified convolutional kernel, padding, and stride.
