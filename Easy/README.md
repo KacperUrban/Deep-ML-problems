@@ -206,3 +206,11 @@ Implement a function that performs Batch Normalization on a 4D NumPy array repre
 Link to the problem website - https://www.deep-ml.com/problems/115.
 
 Solved in [problem115.py](problem115.py).
+
+* **Calculate Computational Efficiency of MoE**:
+  
+Calculate the computational cost savings of an MoE layer compared to a dense layer, as discussed in the paper 'Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer.'
+
+Link to the problem website - https://www.deep-ml.com/problems/123.
+
+Solved in [problem123.py](problem123.py).
